@@ -1,0 +1,12 @@
+/root/sem8_71/as2/FashionStore/src/main/java/servlets/LoginServlet.java
+/root/sem8_71/as2/FashionStore/src/main/java/servlets/OrderServlet.java
+/root/sem8_71/as2/FashionStore/src/main/java/practice1/fashionstore/JakartaRestConfiguration.java
+/root/sem8_71/as2/FashionStore/src/main/java/servlets/RegisterServlet.java
+/root/sem8_71/as2/FashionStore/src/main/java/model/CartItem.java
+/root/sem8_71/as2/FashionStore/src/main/java/listners/SessionListeners.java
+/root/sem8_71/as2/FashionStore/src/main/java/servlets/UpdateCartServlet.java
+/root/sem8_71/as2/FashionStore/src/main/java/servlets/RemoveFromCartServlet.java
+/root/sem8_71/as2/FashionStore/src/main/java/db/dbConnection.java
+/root/sem8_71/as2/FashionStore/src/main/java/servlets/CartServlet.java
+/root/sem8_71/as2/FashionStore/src/main/java/practice1/fashionstore/resources/JakartaEE10Resource.java
+/root/sem8_71/as2/FashionStore/src/main/java/filters/AuthFilter.java
